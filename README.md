@@ -2,7 +2,7 @@
  My First project coded using React.
  Basic calculator that does calculating and stuff.
  
- Netlify link: 
+ Netlify link: coming soon...
 
 # Getting Started with Create React App
 
